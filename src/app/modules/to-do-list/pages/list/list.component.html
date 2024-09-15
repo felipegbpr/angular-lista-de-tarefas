@@ -1,3 +1,4 @@
+@if(!getListItems().length) {
 <div class="container">
   <img
     src="assets/img/task-list-null.png"
@@ -13,3 +14,8 @@
     (outputAddListItem)="getInputAndAddItem($event)" />
   }
 </div>
+} @else {
+  <app-input-add-item
+  [inputListItems]="getListItems()"
+  (outputAddListItem)="getInputAndAddItem($event)" />
+}
