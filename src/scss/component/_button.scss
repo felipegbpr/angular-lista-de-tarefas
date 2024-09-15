@@ -55,7 +55,8 @@
   }
 
   &.btn-danger-circle {
-    content: url("../../assets/icons/delete.svg");
+    &::after {
+      content: url("../../assets/icons/delete.svg");
+    }
   }
-
 }
