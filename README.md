@@ -1,27 +1,51 @@
-# CursoAngularListaDeTarefas
+# 📋 Projeto Prático: Angular - To Do List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/felipegbpr/angular-lista-de-tarefas/blob/main/LICENSE)
 
-## Development server
+## 📃 Sobre o projeto 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+https://felipegbpr.github.io/angular-lista-de-tarefas/
 
-## Code scaffolding
+Este projeto representa uma aplicação para gerenciaamento de tarefas criada através do curso de Angular do instrutor [Dener Troquatte](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) na plataforma de cursos [Udemy](https://www.udemy.com/home/my-courses/learning/). 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto tem como objetivo demonstrar a utilização dos recursos e conceitos do framework Angular para desenvolvimento de aplicações 
+Web.
 
-## Build
+## 📷 Layout Web
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img src="https://github.com/felipegbpr/assets/blob/main/lista-tarefas-angular-web1.png" width="850px"/> <br/> <br/> 
+<img src="https://github.com/felipegbpr/assets/blob/main/lista-tarefas-angular-web2.png" width="850px"/> 
 
-## Running unit tests
+## 📱 Layout Mobile
+<img src="https://github.com/felipegbpr/assets/blob/main/lista-tarefas-angular-mob1.png" />
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 💻 Tecnologias utilizadas
+![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoSize=amg&color=black) 
+![Static Badge](https://img.shields.io/badge/SCSS-violet?style=for-the-badge&logo=sass&logoSize=amg&color=black)
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoSize=amg&color=black)
+![Static Badge](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=red&logoSize=amg&color=black)
 
-## Running end-to-end tests
+## 🌐 Implantação em produção
+- GitHub Pages
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ⚙️ Como executar
+🚩 Pré-requisitos: ANGULAR & NODE
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+  <span># clonar repositório</span>
+    
+    git clone git@github.com:felipegbpr/angular-lista-de-tarefas.git
+   
+  <span># instalar dependências</span>
+    
+    npm install
+  
+  <span># executar o projeto</span>
+    
+    npm start 
+   
+## 👔 Autor
+
+Felipe Borges
+
+Perfil no LinkedIn: https://www.linkedin.com/in/felipe-gsb/
